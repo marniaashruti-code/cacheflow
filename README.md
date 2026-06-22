@@ -24,15 +24,6 @@ git clone https://github.com/marniaashruti-code/cacheflow.git
 cd cacheflow
 pip install -r requirements.txt
 streamlit run app.py
-## Running Locally
-
-```bash
-git clone https://github.com/marniaashruti-code/cacheflow.git
-cd cacheflow
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ## Built For
 
 Congressional App Challenge 2026
